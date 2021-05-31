@@ -2,13 +2,173 @@
     {
         "made": {
             "brand": "Audi",
+            "model": "S6",
+            "submodel": "C6"
+        },
+        "link": "https://cars.av.by/audi/s6/100398964",
+        "image": "https://avcdn.av.by/advertpreview/0000/2963/7705.jpeg",
+        "location": "Минск",
+        "time": "вчера",
+        "year": "2006",
+        "engine": {
+            "transmision": "автомат",
+            "volume": 5.2,
+            "type": "бензин"
+        },
+        "miles": 195477,
+        "price_by": 26849,
+        "price_usd": 10600
+    },
+    {
+        "made": {
+            "brand": "Audi",
+            "model": "Q7",
+            "submodel": "4L"
+        },
+        "link": "https://cars.av.by/audi/q7/100265036",
+        "image": "https://avcdn.av.by/advertpreview/0000/2588/9697.jpeg",
+        "location": "Минск",
+        "time": "30 апреля",
+        "year": "2013",
+        "engine": {
+            "transmision": "автомат",
+            "volume": 3.0,
+            "type": "дизель"
+        },
+        "miles": 163500,
+        "price_by": 62056,
+        "price_usd": 24500
+    },
+    {
+        "made": {
+            "brand": "Audi",
+            "model": "Q7",
+            "submodel": "4L"
+        },
+        "link": "https://cars.av.by/audi/q7/100381132",
+        "image": "https://avcdn.av.by/advertpreview/0000/3014/0457.jpeg",
+        "location": "Минск",
+        "time": "5 дней назад",
+        "year": "2009",
+        "engine": {
+            "transmision": "автомат",
+            "volume": 3.0,
+            "type": "дизель"
+        },
+        "miles": 213000,
+        "price_by": 40400,
+        "price_usd": 15950
+    },
+    {
+        "made": {
+            "brand": "Audi",
+            "model": "A7",
+            "submodel": "4G"
+        },
+        "link": "https://cars.av.by/audi/a7/100393754",
+        "image": "https://avcdn.av.by/advertpreview/0000/2928/2570.jpeg",
+        "location": "Минск",
+        "time": "7 часов назад",
+        "year": "2011",
+        "engine": {
+            "transmision": "автомат",
+            "volume": 3.0,
+            "type": "бензин"
+        },
+        "miles": 188000,
+        "price_by": 50633,
+        "price_usd": 19990
+    },
+    {
+        "made": {
+            "brand": "Audi",
+            "model": "Q7",
+            "submodel": "4L"
+        },
+        "link": "https://cars.av.by/audi/q7/100401208",
+        "image": "https://avcdn.av.by/advertpreview/0000/2978/5365.jpeg",
+        "location": "Лида",
+        "time": "9 часов назад",
+        "year": "2010",
+        "engine": {
+            "transmision": "автомат",
+            "volume": 3.0,
+            "type": "дизель"
+        },
+        "miles": 245500,
+        "price_by": 42933,
+        "price_usd": 16950
+    },
+    {
+        "made": {
+            "brand": "Audi",
+            "model": "Q5",
+            "submodel": "8R"
+        },
+        "link": "https://cars.av.by/audi/q5/100360687",
+        "image": "https://avcdn.av.by/advertpreview/0000/2735/8929.jpeg",
+        "location": "Минск",
+        "time": "9 часов назад",
+        "year": "2016",
+        "engine": {
+            "transmision": "автомат",
+            "volume": 3.0,
+            "type": "дизель"
+        },
+        "miles": 200000,
+        "price_by": 69528,
+        "price_usd": 27450
+    },
+    {
+        "made": {
+            "brand": "Audi",
+            "model": "A6",
+            "submodel": "C5"
+        },
+        "link": "https://cars.av.by/audi/a6/100403696",
+        "image": "https://avcdn.av.by/advertpreview/0000/2996/1478.jpeg",
+        "location": "Орша",
+        "time": "10 часов назад",
+        "year": "1999",
+        "engine": {
+            "transmision": "механика",
+            "volume": 1.9,
+            "type": "дизель"
+        },
+        "miles": 265000,
+        "price_by": 14311,
+        "price_usd": 5650
+    },
+    {
+        "made": {
+            "brand": "Audi",
+            "model": "S8",
+            "submodel": "D2"
+        },
+        "link": "https://cars.av.by/audi/s8/100404429",
+        "image": "https://avcdn.av.by/advertpreview/0000/3000/5418.jpeg",
+        "location": "Барановичи",
+        "time": "11 часов назад",
+        "year": "2001",
+        "engine": {
+            "transmision": "автомат",
+            "volume": 4.2,
+            "type": "бензин"
+        },
+        "miles": 298000,
+        "price_by": 12538,
+        "price_usd": 4950
+    },
+    {
+        "made": {
+            "brand": "Audi",
             "model": "A6",
             "submodel": "C5"
         },
         "link": "https://cars.av.by/audi/a6/100180894",
         "image": "https://avcdn.av.by/advertpreview/0000/2980/0535.jpeg",
         "location": "Минск",
-        "time": "7 часов назад",
+        "time": "вчера",
         "year": "2002",
         "engine": {
             "transmision": "автомат",
@@ -26,9 +186,9 @@
             "submodel": "C6"
         },
         "link": "https://cars.av.by/audi/a6/100400469",
-        "image": "https://avcdn.av.by/advertpreview/0000/2974/1070.jpeg",
+        "image": "https://avcdn.av.by/advertpreview/0000/2974/0920.jpeg",
         "location": "Минск",
-        "time": "11 часов назад",
+        "time": "вчера",
         "year": "2005",
         "engine": {
             "transmision": "автомат",
@@ -36,8 +196,8 @@
             "type": "дизель"
         },
         "miles": 324000,
-        "price_by": 22543,
-        "price_usd": 8900
+        "price_by": 21783,
+        "price_usd": 8600
     },
     {
         "made": {
@@ -48,7 +208,7 @@
         "link": "https://cars.av.by/audi/a6/100262729",
         "image": "https://avcdn.av.by/advertpreview/0000/2105/5468.jpeg",
         "location": "Несвиж",
-        "time": "12 часов назад",
+        "time": "вчера",
         "year": "2003",
         "engine": {
             "transmision": "механика",
@@ -128,7 +288,7 @@
         "link": "https://cars.av.by/audi/a4/100371326",
         "image": "https://avcdn.av.by/advertpreview/0000/2797/4357.jpeg",
         "location": "Минск",
-        "time": "вчера",
+        "time": "2 дня назад",
         "year": "2009",
         "engine": {
             "transmision": "автомат",
@@ -148,7 +308,7 @@
         "link": "https://cars.av.by/audi/a6/100389983",
         "image": "https://avcdn.av.by/advertpreview/0000/2979/6345.jpeg",
         "location": "Бобруйск",
-        "time": "2 дня назад",
+        "time": "3 дня назад",
         "year": "2005",
         "engine": {
             "transmision": "автомат",
@@ -168,7 +328,7 @@
         "link": "https://cars.av.by/audi/100/100039263",
         "image": "https://avcdn.av.by/advertpreview/0000/2975/2700.jpeg",
         "location": "Пружаны",
-        "time": "вчера",
+        "time": "2 дня назад",
         "year": "1993",
         "engine": {
             "transmision": "механика",
@@ -178,26 +338,6 @@
         "miles": 428600,
         "price_by": 5066,
         "price_usd": 2000
-    },
-    {
-        "made": {
-            "brand": "Audi",
-            "model": "S6",
-            "submodel": "C6"
-        },
-        "link": "https://cars.av.by/audi/s6/100398964",
-        "image": "https://avcdn.av.by/advertpreview/0000/2963/7705.jpeg",
-        "location": "Минск",
-        "time": "19 часов назад",
-        "year": "2006",
-        "engine": {
-            "transmision": "автомат",
-            "volume": 5.2,
-            "type": "бензин"
-        },
-        "miles": 195477,
-        "price_by": 26849,
-        "price_usd": 10600
     },
     {
         "made": {
@@ -223,32 +363,12 @@
         "made": {
             "brand": "Audi",
             "model": "A4",
-            "submodel": "B8"
-        },
-        "link": "https://cars.av.by/audi/a4/100402776",
-        "image": "https://avcdn.av.by/advertpreview/0000/2990/1352.jpeg",
-        "location": "Могилев",
-        "time": "вчера",
-        "year": "2008",
-        "engine": {
-            "transmision": "автомат",
-            "volume": 2.0,
-            "type": "дизель"
-        },
-        "miles": 167000,
-        "price_by": 22794,
-        "price_usd": 8999
-    },
-    {
-        "made": {
-            "brand": "Audi",
-            "model": "A4",
             "submodel": "B9"
         },
         "link": "https://cars.av.by/audi/a4/100308839",
         "image": "https://avcdn.av.by/advertpreview/0000/2397/6141.jpeg",
         "location": "Минск",
-        "time": "вчера",
+        "time": "2 дня назад",
         "year": "2018",
         "engine": {
             "transmision": "автомат",
@@ -268,7 +388,7 @@
         "link": "https://cars.av.by/audi/a6/100325048",
         "image": "https://avcdn.av.by/advertpreview/0000/2499/2178.jpeg",
         "location": "Барановичи",
-        "time": "вчера",
+        "time": "2 дня назад",
         "year": "2005",
         "engine": {
             "transmision": "автомат",
@@ -278,145 +398,5 @@
         "miles": 266732,
         "price_by": 16717,
         "price_usd": 6600
-    },
-    {
-        "made": {
-            "brand": "Audi",
-            "model": "A6",
-            "submodel": "C5"
-        },
-        "link": "https://cars.av.by/audi/a6/100398753",
-        "image": "https://avcdn.av.by/advertpreview/0000/2962/5615.jpeg",
-        "location": "Гомель",
-        "time": "2 дня назад",
-        "year": "1997",
-        "engine": {
-            "transmision": "механика",
-            "volume": 1.8,
-            "type": "бензин"
-        },
-        "miles": 366000,
-        "price_by": 11905,
-        "price_usd": 4700
-    },
-    {
-        "made": {
-            "brand": "Audi",
-            "model": "A3",
-            "submodel": "8V"
-        },
-        "link": "https://cars.av.by/audi/a3/100395474",
-        "image": "https://avcdn.av.by/advertpreview/0000/2939/8459.jpeg",
-        "location": "Минск",
-        "time": "5 дней назад",
-        "year": "2016",
-        "engine": {
-            "transmision": "автомат",
-            "volume": 1.4,
-            "type": "бензин"
-        },
-        "miles": 95395,
-        "price_by": 42730,
-        "price_usd": 16870
-    },
-    {
-        "made": {
-            "brand": "Audi",
-            "model": "A7",
-            "submodel": "4G"
-        },
-        "link": "https://cars.av.by/audi/a7/100385209",
-        "image": "https://avcdn.av.by/advertpreview/0000/2877/0420.jpeg",
-        "location": "Несвиж",
-        "time": "2 дня назад",
-        "year": "2011",
-        "engine": {
-            "transmision": "автомат",
-            "volume": 3.0,
-            "type": "бензин"
-        },
-        "miles": 150000,
-        "price_by": 47872,
-        "price_usd": 18900
-    },
-    {
-        "made": {
-            "brand": "Audi",
-            "model": "A8",
-            "submodel": "D3"
-        },
-        "link": "https://cars.av.by/audi/a8/100133936",
-        "image": "https://avcdn.av.by/advertpreview/0000/2982/5322.jpeg",
-        "location": "Минск",
-        "time": "2 дня назад",
-        "year": "2003",
-        "engine": {
-            "transmision": "автомат",
-            "volume": 4.2,
-            "type": "бензин"
-        },
-        "miles": 187000,
-        "price_by": 22543,
-        "price_usd": 8900
-    },
-    {
-        "made": {
-            "brand": "Audi",
-            "model": "Q5",
-            "submodel": "8R"
-        },
-        "link": "https://cars.av.by/audi/q5/100290198",
-        "image": "https://avcdn.av.by/advertpreview/0000/2281/4265.jpeg",
-        "location": "Минск",
-        "time": "3 дня назад",
-        "year": "2013",
-        "engine": {
-            "transmision": "механика",
-            "volume": 2.0,
-            "type": "бензин"
-        },
-        "miles": 137757,
-        "price_by": 34422,
-        "price_usd": 13590
-    },
-    {
-        "made": {
-            "brand": "Audi",
-            "model": "A6",
-            "submodel": "C6"
-        },
-        "link": "https://cars.av.by/audi/a6/100391109",
-        "image": "https://avcdn.av.by/advertpreview/0000/2912/2220.jpeg",
-        "location": "Минск",
-        "time": "2 дня назад",
-        "year": "2006",
-        "engine": {
-            "transmision": "автомат",
-            "volume": 2.7,
-            "type": "дизель"
-        },
-        "miles": 279000,
-        "price_by": 24063,
-        "price_usd": 9500
-    },
-    {
-        "made": {
-            "brand": "Audi",
-            "model": "A4",
-            "submodel": "B6"
-        },
-        "link": "https://cars.av.by/audi/a4/100395606",
-        "image": "https://avcdn.av.by/advertpreview/0000/2940/7879.jpeg",
-        "location": "Барановичи",
-        "time": "2 дня назад",
-        "year": "2002",
-        "engine": {
-            "transmision": "автомат",
-            "volume": 2.5,
-            "type": "дизель"
-        },
-        "miles": 340468,
-        "price_by": 13424,
-        "price_usd": 5300
     }
 ]
