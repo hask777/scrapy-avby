@@ -4,12 +4,13 @@ import scrapy
 
 class CarsSpider(scrapy.Spider):
     name = 'cars'
-    allowed_domains = ['cars.av.by/audi']
+    allowed_domains = ['cars.av.by']
     start_urls = ['https://cars.av.by/audi']
 
     def parse(self, response):
 
-        cars = response.xpath('//div[@class="listing-item listing-item--color listing-item--top"]')
+        # cars = response.xpath('//div[@class="listing-item"]')
+        cars = response.css('div.listing-item')
 
         for car in cars:
 
@@ -104,5 +105,13 @@ class CarsSpider(scrapy.Spider):
                 'engine': engine,
                 'miles': miles,
                 'price_by': price_by,
-                'price_usd': price_usd
+                'price_usd': price_usd,
             }
+
+        # next = response.xpath('//div[@class="paging__button"]/a/@href').get()
+        # next_page = response.urljoin(next)
+        # print(next_page)
+
+        # if next_page is not None:
+        #     yield response.follow(url=next_page, callback=self.parse)
+
